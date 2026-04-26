@@ -1,0 +1,33 @@
+name: AI Drama Final
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Install FFmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
+      - name: Run pipeline
+        run: python main.py --idea "A bullied boy discovers a dark power" --style "dark revenge cinematic" --episodes 3 --shots 4
+
+      - name: Upload outputs
+        uses: actions/upload-artifact@v4
+        with:
+          name: ai-drama-final-output
+          path: |
+            output/
+            data/project.json

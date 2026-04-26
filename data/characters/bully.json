@@ -1,0 +1,18 @@
+{
+  "id": "bully",
+  "name": "Bully",
+  "age": 18,
+  "gender": "male",
+  "role": "antagonist",
+  "appearance": {
+    "face": "wide grin, sharp eyebrows",
+    "hair": "messy blond hair",
+    "body": "athletic build",
+    "clothing": "expensive school jacket"
+  },
+  "emotion_base": "mocking, arrogant",
+  "voice_style": "loud, contemptuous",
+  "reference_image": "data/references/bully_ref_01.png",
+  "lora_path": "data/loras/bully.safetensors",
+  "prompt_anchor": "18-year-old male, wide grin, sharp eyebrows, messy blond hair, athletic build, expensive school jacket"
+}

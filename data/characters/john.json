@@ -1,0 +1,18 @@
+{
+  "id": "john",
+  "name": "John",
+  "age": 17,
+  "gender": "male",
+  "role": "main_character",
+  "appearance": {
+    "face": "sharp jaw, thin lips, deep eyes",
+    "hair": "short black hair",
+    "body": "slim build",
+    "clothing": "worn school uniform"
+  },
+  "emotion_base": "quiet, hurt, restrained",
+  "voice_style": "calm, low, slightly tense",
+  "reference_image": "data/references/john_ref_01.png",
+  "lora_path": "data/loras/john.safetensors",
+  "prompt_anchor": "17-year-old male, sharp jaw, thin lips, deep eyes, short black hair, slim build, worn school uniform"
+}

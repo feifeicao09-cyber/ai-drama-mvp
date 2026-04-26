@@ -1,0 +1,154 @@
+{
+  "title": "AI Drama Final",
+  "idea": "A bullied boy discovers a dark power",
+  "style": "dark revenge cinematic",
+  "episodes_count": 2,
+  "shots_per_episode": 4,
+  "characters": [],
+  "episodes": [
+    {
+      "id": 1,
+      "title": "Episode 1",
+      "summary": "A bullied boy discovers a dark power. dark revenge cinematic. Episode 1 escalates the conflict.",
+      "shots": [
+        {
+          "id": 1,
+          "scene": "dark classroom",
+          "type": "close-up",
+          "camera": "slow zoom in",
+          "emotion": "humiliated",
+          "characters": [
+            "john"
+          ],
+          "duration": 3,
+          "visual": "John sits alone while the class stares.",
+          "dialogue": "They laughed at him...",
+          "image": "/mnt/data/ai_drama_final/assets/generated/ep_1/shot_1.png",
+          "prompt": "17-year-old male, sharp jaw, thin lips, deep eyes, short black hair, slim build, worn school uniform, dark classroom, close-up, slow zoom in, humiliated, cinematic lighting, anime cinematic, ultra detailed, high quality"
+        },
+        {
+          "id": 2,
+          "scene": "classroom aisle",
+          "type": "wide shot",
+          "camera": "pan",
+          "emotion": "mocking",
+          "characters": [
+            "john",
+            "bully"
+          ],
+          "duration": 3,
+          "visual": "The bully points and laughs as others join in.",
+          "dialogue": "Everyone mocked him.",
+          "image": "/mnt/data/ai_drama_final/assets/generated/ep_1/shot_2.png",
+          "prompt": "17-year-old male, sharp jaw, thin lips, deep eyes, short black hair, slim build, worn school uniform, 18-year-old male, wide grin, sharp eyebrows, messy blond hair, athletic build, expensive school jacket, classroom aisle, wide shot, pan, mocking, cinematic lighting, anime cinematic, ultra detailed, high quality"
+        },
+        {
+          "id": 3,
+          "scene": "hallway shadows",
+          "type": "extreme close-up",
+          "camera": "push in",
+          "emotion": "rage",
+          "characters": [
+            "john"
+          ],
+          "duration": 3,
+          "visual": "John's eyes glow with rising power.",
+          "dialogue": "Until something changed.",
+          "image": "/mnt/data/ai_drama_final/assets/generated/ep_1/shot_3.png",
+          "prompt": "17-year-old male, sharp jaw, thin lips, deep eyes, short black hair, slim build, worn school uniform, hallway shadows, extreme close-up, push in, rage, cinematic lighting, anime cinematic, ultra detailed, high quality"
+        },
+        {
+          "id": 4,
+          "scene": "empty corridor",
+          "type": "medium shot",
+          "camera": "static",
+          "emotion": "ominous",
+          "characters": [
+            "john",
+            "teacher"
+          ],
+          "duration": 4,
+          "visual": "The teacher senses something dangerous.",
+          "dialogue": "And that was only the beginning.",
+          "image": "/mnt/data/ai_drama_final/assets/generated/ep_1/shot_4.png",
+          "prompt": "17-year-old male, sharp jaw, thin lips, deep eyes, short black hair, slim build, worn school uniform, 40-year-old female, tired but kind face, tied back brown hair, average build, plain blouse and skirt, empty corridor, medium shot, static, ominous, cinematic lighting, anime cinematic, ultra detailed, high quality"
+        }
+      ],
+      "audio": "/mnt/data/ai_drama_final/assets/audio/ep_1.wav",
+      "subtitles": "/mnt/data/ai_drama_final/assets/subtitles/ep_1.srt",
+      "video": "/mnt/data/ai_drama_final/output/episode_1.mp4"
+    },
+    {
+      "id": 2,
+      "title": "Episode 2",
+      "summary": "A bullied boy discovers a dark power. dark revenge cinematic. Episode 2 escalates the conflict.",
+      "shots": [
+        {
+          "id": 1,
+          "scene": "dark classroom",
+          "type": "close-up",
+          "camera": "slow zoom in",
+          "emotion": "humiliated",
+          "characters": [
+            "john"
+          ],
+          "duration": 3,
+          "visual": "John sits alone while the class stares.",
+          "dialogue": "They laughed at him...",
+          "image": "/mnt/data/ai_drama_final/assets/generated/ep_2/shot_1.png",
+          "prompt": "17-year-old male, sharp jaw, thin lips, deep eyes, short black hair, slim build, worn school uniform, dark classroom, close-up, slow zoom in, humiliated, cinematic lighting, anime cinematic, ultra detailed, high quality"
+        },
+        {
+          "id": 2,
+          "scene": "classroom aisle",
+          "type": "wide shot",
+          "camera": "pan",
+          "emotion": "mocking",
+          "characters": [
+            "john",
+            "bully"
+          ],
+          "duration": 3,
+          "visual": "The bully points and laughs as others join in.",
+          "dialogue": "Everyone mocked him.",
+          "image": "/mnt/data/ai_drama_final/assets/generated/ep_2/shot_2.png",
+          "prompt": "17-year-old male, sharp jaw, thin lips, deep eyes, short black hair, slim build, worn school uniform, 18-year-old male, wide grin, sharp eyebrows, messy blond hair, athletic build, expensive school jacket, classroom aisle, wide shot, pan, mocking, cinematic lighting, anime cinematic, ultra detailed, high quality"
+        },
+        {
+          "id": 3,
+          "scene": "hallway shadows",
+          "type": "extreme close-up",
+          "camera": "push in",
+          "emotion": "rage",
+          "characters": [
+            "john"
+          ],
+          "duration": 3,
+          "visual": "John's eyes glow with rising power.",
+          "dialogue": "Until something changed.",
+          "image": "/mnt/data/ai_drama_final/assets/generated/ep_2/shot_3.png",
+          "prompt": "17-year-old male, sharp jaw, thin lips, deep eyes, short black hair, slim build, worn school uniform, hallway shadows, extreme close-up, push in, rage, cinematic lighting, anime cinematic, ultra detailed, high quality"
+        },
+        {
+          "id": 4,
+          "scene": "empty corridor",
+          "type": "medium shot",
+          "camera": "static",
+          "emotion": "ominous",
+          "characters": [
+            "john",
+            "teacher"
+          ],
+          "duration": 4,
+          "visual": "The teacher senses something dangerous.",
+          "dialogue": "And that was only the beginning.",
+          "image": "/mnt/data/ai_drama_final/assets/generated/ep_2/shot_4.png",
+          "prompt": "17-year-old male, sharp jaw, thin lips, deep eyes, short black hair, slim build, worn school uniform, 40-year-old female, tired but kind face, tied back brown hair, average build, plain blouse and skirt, empty corridor, medium shot, static, ominous, cinematic lighting, anime cinematic, ultra detailed, high quality"
+        }
+      ],
+      "audio": "/mnt/data/ai_drama_final/assets/audio/ep_2.wav",
+      "subtitles": "/mnt/data/ai_drama_final/assets/subtitles/ep_2.srt",
+      "video": "/mnt/data/ai_drama_final/output/episode_2.mp4"
+    }
+  ]
+}

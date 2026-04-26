@@ -1,0 +1,18 @@
+{
+  "id": "teacher",
+  "name": "Teacher",
+  "age": 40,
+  "gender": "female",
+  "role": "supporting",
+  "appearance": {
+    "face": "tired but kind",
+    "hair": "tied back brown hair",
+    "body": "average build",
+    "clothing": "plain blouse and skirt"
+  },
+  "emotion_base": "concerned, observant",
+  "voice_style": "soft, steady",
+  "reference_image": "data/references/teacher_ref_01.png",
+  "lora_path": "data/loras/teacher.safetensors",
+  "prompt_anchor": "40-year-old female, tired but kind face, tied back brown hair, average build, plain blouse and skirt"
+}
